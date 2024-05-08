@@ -1,0 +1,9 @@
+
+["Base Config"]
+	#Whether weed randomly grows on crop blocks
+	weed_grow = false
+	#Whether existing weed spreads
+	weed_spread = false
+	#Whether sprinting on crops destroys them
+	crop_trample = false
+
